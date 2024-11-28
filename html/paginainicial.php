@@ -14,7 +14,7 @@
 
     <div class="form-container">
         <h1>Formulário de Cadastro</h1>
-        <form action="#" method="POST">
+        <form action="../backend/database.php" method="POST">
             <div>
                 <label for="nome">Nome</label>
                 <input type="text" id="nome" name="nome" required>
